@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## AGSimpleImageEditorView
 
 AGSimpleImageEditorView is just another image editor for iOS. The only features that this editor has are image cropping and rotation.
@@ -52,3 +53,6 @@ UIImage *result = simpleImageEditorView.output;
 - [Twitter](http://twitter.com/arturgrigor)
 
 Let me know if you're using or enjoying this product.
+=======
+# CropImageViewDemo
+>>>>>>> e0a792c5821b1a9594bc9a0a360e1bcf40248045
